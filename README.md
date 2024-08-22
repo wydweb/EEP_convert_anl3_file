@@ -14,7 +14,7 @@ Solche EEP-Anlagen sind z.B. hier zu finden:
 
 ### Aufruf
 
-[https://frankbuchholz.github.io/EEP_convert_anl3_file/EEP_Gleisplan.html](https://frankbuchholz.github.io/EEP_convert_anl3_file/EEP_Gleisplan.html "EEP_Gleisplan.html")
+[https://wydweb.github.io/EEP_convert_anl3_file/EEP_Gleisplan.html](https://wydweb.github.io/EEP_convert_anl3_file/EEP_Gleisplan.html "EEP_Gleisplan.html")
 
 ### Mausfunktionen
 
@@ -93,7 +93,7 @@ Anzeige einer Inventarliste zu einer EEP-Anlage.
 
 ### Aufruf
 
-[https://frankbuchholz.github.io/EEP_convert_anl3_file/EEP_Inventar.html](https://frankbuchholz.github.io/EEP_convert_anl3_file/EEP_Inventar.html "EEP_Inventar.html")
+[https://wydweb.github.io/EEP_convert_anl3_file/EEP_Inventar.html](https://wydweb.github.io/EEP_convert_anl3_file/EEP_Inventar.html "EEP_Inventar.html")
 
 Zur Zeit wird eine Liste der Weichen, Signale, Kontakte, Zugverbände und verwendeter Gleisstile ausgegeben. Außerdem werden die Gleisbildstellpulte gezeigt. Das Programm kann leicht für andere Daten erweitert werden werden.
 
@@ -137,7 +137,7 @@ Die Ausgabe erfolgt gruppiert nach der Stellungskombination. Dafür wird je Komb
 
 ### Aufruf
 
-[https://frankbuchholz.github.io/EEP_convert_anl3_file/EEP_Signale.html](https://frankbuchholz.github.io/EEP_convert_anl3_file/EEP_Signale.html "EEP_Signale.html")
+[https://wydweb.github.io/EEP_convert_anl3_file/EEP_Signale.html](https://wydweb.github.io/EEP_convert_anl3_file/EEP_Signale.html "EEP_Signale.html")
 
 ---
 
